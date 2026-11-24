@@ -1,0 +1,2 @@
+id,name,model_id,group_id/id,operation,domain
+1,Access to Real Estate Property Models,estate.property,base.group_user,crud,

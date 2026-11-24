@@ -9,4 +9,7 @@
     'depends': [
         'base',
     ],
+    'data': [
+        'data/ir.access.csv'
+    ]
 }
