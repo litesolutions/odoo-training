@@ -7,4 +7,7 @@
     "description": "Control and manage real estate",
     "author": "Marc Rodríguez",
     "depends": ["base"],
+    "data": [
+        "security/ir.access.csv",
+    ],
 }
